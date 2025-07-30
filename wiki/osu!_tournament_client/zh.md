@@ -74,4 +74,4 @@ osu! 比赛客户端内可供自定义的组件有队旗、模组图标和背景
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
-| Bracket | `ladder` |
+| 对战表 | `ladder` |
