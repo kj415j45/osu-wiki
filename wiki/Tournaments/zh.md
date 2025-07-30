@@ -1,6 +1,4 @@
 ---
-outdated_since: 9e7171bcffbb05be58c6444cf46ea6ba11e1a59c
-outdated_translation: true
 ---
 
 # 锦标赛
@@ -31,6 +29,7 @@ outdated_translation: true
 | [osu! 世界杯 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=KR }:: 韩国 |
 | [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
 | [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
+| [osu! 世界杯 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=AU }:: 澳洲 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
@@ -49,6 +48,8 @@ outdated_translation: true
 | [osu!taiko 世界杯 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=BR }:: 巴西 |
 | [osu!taiko 世界杯 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=ID }:: 印度尼西亚 |
 | [osu!taiko 世界杯 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: 日本 | ::{ flag=TW }:: 台湾 | ::{ flag=DE }:: 德国 |
+| [osu!taiko 世界杯 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | ::{ flag=JP }:: 日本 | ::{ flag=GB }:: 英国 | ::{ flag=US }:: 美国 |
+| [osu!taiko 世界杯 2025](TWC/2025) | 2025-03-15 | 2025-04-27 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=TW }:: 台湾 |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch 世界杯
 
@@ -66,6 +67,8 @@ outdated_translation: true
 | [osu!catch 世界杯 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ::{ flag=KR }:: 韩国 | ::{ flag=HK }:: 香港 | ::{ flag=US }:: 美国 |
 | [osu!catch 世界杯 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 |
 | [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=IT }:: 意大利 |
+| [osu!catch 世界杯 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | ::{ flag=US }:: 美国 | ::{ flag=AR }:: 阿根廷 | ::{ flag=PL }:: 波兰 |
+| [osu!catch 世界杯 2025](CWC/2025) | 2025-05-08 | 2024-07-20 | ::{ flag=AR }:: 阿根廷 | ::{ flag=US }:: 美国 | ::{ flag=FI }:: 芬兰 |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 世界杯
 
@@ -88,7 +91,10 @@ outdated_translation: true
 | [osu!mania 4K 世界杯 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: 韩国 | ::{ flag=BR }:: 巴西 | ::{ flag=US }:: 美国 |
 | [osu!mania 7K 世界杯 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: 菲律宾 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 |
 | [osu!mania 4K 世界杯 2023](MWC/2023_4K) | 2023-07-13 | 2023-09-24 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=ID }:: 印度尼西亚 |
-| [osu!mania 7K 世界杯 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K 世界杯 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 | ::{ flag=PH }:: 菲律宾 |
+| [osu!mania 4K 世界杯 2024](MWC/2024_4K) | 2024-07-18 | 2024-09-29 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 | ::{ flag=TH }:: 泰国 |
+| [osu!mania 7K 世界杯 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=PH }:: 菲律宾 |
+| [osu!mania 4K 世界杯 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | *TBD* | *TBD* | *TBD* |
 
 ## 社区锦标赛
 
