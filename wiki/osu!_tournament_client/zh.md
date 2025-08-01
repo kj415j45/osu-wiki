@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
----
-
 # osu! 比赛客户端
 
 **osu! 比赛客户端** 是用于 [osu!tourney](/wiki/osu!_tournament_client/osu!tourney)，并可在直播 osu! 比赛期间，提供多种多样的信息界面的官方信息覆盖层客户端。
@@ -64,18 +59,19 @@ osu! 比赛客户端内可供自定义的组件有队旗、模组图标和背景
 这些文件必须遵循以下规范：
 
 - 16:9 宽高比，例如 1280x720 或 1920x1080
-- `mp4`、`m4v`、`avi` 文件扩展名
-- 视频编码：H.264，无音频编码
+- `mp4`、`m4v` 或 `avi` 文件扩展名
+- 视频编解码器：H.264，音频编解码器：无
 
-所有视频文件均存放在 `<你的比赛名称>/Videos` 文件夹下。若要让它们正常显示，则视频文件名称必须对应上特定的场景。
+视频文件必须放置在 `<你的比赛名称>/Videos` 文件夹下，并且需要特定的文件名以保证正确运行。
 
-| 场景 | 文件名称 |
+| 场景 | 文件 |
 | :-- | :-- |
 | 安排 (Schedule) | `schedule` |
 | 队伍 (TeamIntro) | `teamintro` |
 | 选种 (Seeding) | `seeding` |
 | 图池 (MapPool) | `mappool` |
 | 比赛 (Gameplay) | `gameplay` |
-| 胜利 (Win) | `teamwin-red`、`teamwin-blue` |
+| 胜利 (Win) | `teamwin-red`, `teamwin-blue` |
 | 分组 (Drawings) | `main` |
 | 展示 (Showcase) | `showcase` |
+| 对战表 (Bracket) | `ladder` |
